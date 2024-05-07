@@ -1,5 +1,7 @@
 ### Hi there 👋
-<p align="left"><img src="https://komarev.com/ghpvc/?username=rnaksdl&label=Profile%20views&color=0e75b6&style=flat" alt="rnaksdl profile view count" /> </p>
+
+![](https://komarev.com/ghpvc/?username=rnaksdl&color=grey)
+
 <!--
 **rnaksdl/rnaksdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
