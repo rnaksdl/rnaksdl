@@ -1,4 +1,6 @@
 # Howdy 🤠
 
-## What's on my mind:
-I need to learn React and Firebase, so I can build all the things that I want to build..
+## Goals at the moment (smallest to biggest):
+1. Learn to prove algorithms using Mathmatical Induction.
+2. Finish Full Stack Course.
+3. Learn to use React and Firebase to bring out my ideas in to existance.
