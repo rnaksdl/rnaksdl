@@ -1,8 +1,4 @@
 # Howdy 🤠
-Currently a CS major Senior at University of Oklahoma.
-Will graduate with B.S. in May 2025 and M.S. in May 2026.
+Currently a CS major Senior / Reseach Assistant at University of Oklahoma.
 
-## My Goals at the moment:
-- Get good grades
-- Get better 
-- Daily Leet Code Challenge
+Graduating with B.S. in Dec 2025 and M.S. in May 2026.
